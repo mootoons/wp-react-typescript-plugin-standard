@@ -80,4 +80,5 @@ class Example
 
 ### ตัวอย่าง
 
-![MyApp-‹-Wordpress-Tester-—-WordPress](https://user-images.githubusercontent.com/11506169/179348473-4369d12e-e534-4642-a3a7-8d817220d6eb.jpg)
+![MyApp-‹-Wordpress-Tester-—-WordPress](https://user-images.githubusercontent.com/11506169/179353573-4ed11b63-ae16-468b-b908-ed7ce67fee9c.jpg)
+
