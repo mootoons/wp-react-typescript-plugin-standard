@@ -1,0 +1,16 @@
+{
+  "name": "mootoons/wp-react-plugin-standard",
+  "description": "Wordpress plugin react standard",
+  "autoload": {
+    "psr-4": {
+      "MyApp\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "MooToon",
+      "email": "support@mootoons.com"
+    }
+  ],
+  "require": {}
+}

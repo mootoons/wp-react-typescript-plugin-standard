@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "app"
+    },
+    {
+      "path": "resources"
+    }
+  ],
+  "settings": {
+    "intelephense.environment.phpVersion": "7.4",
+    "intelephense.environment.includePaths": ["../"]
+  }
+}
